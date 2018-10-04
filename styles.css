@@ -1,0 +1,33 @@
+header{
+	background-image: url(images/headerBlue.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 400px;
+}
+
+nav{
+	background-color: #BFE0E9;
+}
+
+nav .row .col:hover{
+	background-color: #1696E3;
+}
+
+img{
+	width: 100%;
+}
+
+a{
+	color: #1C8ABC;
+}
+
+a:hover{
+	color: light;
+}
+
+h4{
+	color: #1C8ABC;
+
+}
+
